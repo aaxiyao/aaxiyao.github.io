@@ -15,7 +15,8 @@ reference algorithms
 ## News
 
 - **[OCT 25th, 2022]**  Passed College English Test Band 6.
-- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Ruoxi Sun**, Junqi Xu, Cong Qian, Xinyu Yang, Chenyu Zhu) to establish [the BeeLab](https://xinyu1213.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Chenyu Zhu, Junqi Xu
+- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Ruoxi Sun**, Junqi Xu, Cong Qian, Xinyu Yang, Chenyu Zhu) to establish [the BeeLab](https://beelab955.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Chenyu Zhu, Junqi Xu
+- **[MAY 27th, 2022]** Won the third prize of Python Programming in Jiangsu Division of the 13th Blue Bridge Cup National Software and Information Technology Professional Talent🎉✨
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 

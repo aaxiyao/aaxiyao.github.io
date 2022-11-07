@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a sophomore student at School of Future Science and Technology of Soochow University which located in Suzhou, Jiangsu Province, China.I like singing and listening to music,and is extremely fond of trying new things.
+I am a sophomore student at School of Future Science and Engineering of Soochow University which located in Suzhou, Jiangsu Province, China.I like singing and listening to music,and is extremely fond of trying new things.
 
 ## Research Interests
 

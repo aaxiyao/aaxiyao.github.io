@@ -23,7 +23,7 @@ reference algorithms
 
 ## Projects
 
-- **YawnNet: A Visual-Centric Approach for Yawning Detection**   我把它注释掉了，等有项目了再加，保留了源代码
+- **YawnNet: A Visual-Centric Approach for Yawning Detection**
   <br>
   **Ruoxi Sun**, Xinyu Yang, Cong Qian, Chenyu Zhu, Wei Sui, Zeyd Boukhers, Cong Yang
   <br>

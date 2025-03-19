@@ -4,35 +4,33 @@ layout: homepage
 
 ## About Me
 
-I am a sophomore student at School of Future Science and Engineering of Soochow University which located in Suzhou, Jiangsu Province, China.I like singing and listening to music,and is extremely fond of trying new things.
+I am a senior student at School of Future Science and Engineering of Soochow University which located in Suzhou, Jiangsu Province, China.I like singing and listening to music,and is extremely fond of trying new things.
 
 ## Research Interests
 
 - **Smart Cockpit:** domestic large computing chips such as Journey 5, intelligent driving perception
 reference algorithms
 - **Intelligent Driving:** L3 and above, visual fatigue detection algorithms
+- **Large Language Model** 
 
 ## News
 
 - **[OCT 25th, 2022]**  Passed College English Test Band 6.
 - **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Ruoxi Sun**, Junqi Xu, Cong Qian, Xinyu Yang, Chenyu Zhu) to establish [the BeeLab](https://beelab955.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Chenyu Zhu, Junqi Xu
 - **[MAY 27th, 2022]** Won the third prize of Python Programming in Jiangsu Division of the 13th Blue Bridge Cup National Software and Information Technology Professional Talent🎉✨
-- **[DEC. 2022]** To be updated.
-- **[Mar. 2022]** To be updated.
+- **[June. 2024]** Published the paper *YawnNet: A Visual-Centric Approach for Yawning Detection* as the first author.
+- **[September. 2024]** Admitted to the School of Computer Science and Technology, Soochow University.
 
 ## Projects
 
-- **There are 🈚️ Projects yet...**
+- **YawnNet: A Visual-Centric Approach for Yawning Detection**   我把它注释掉了，等有项目了再加，保留了源代码
+  <br>
+  **Ruoxi Sun**, Xinyu Yang, Cong Qian, Chenyu Zhu, Wei Sui, Zeyd Boukhers, Cong Yang
+  <br>
+  International Conference on Multimedia Retrieval. **ICMR 2024**.
+  <br>
 
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**   我把它注释掉了，等有项目了再加，保留了源代码
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+<!-- - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
   Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
   <br>

@@ -19,7 +19,7 @@ reference algorithms
 - **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Ruoxi Sun**, Junqi Xu, Cong Qian, Xinyu Yang, Chenyu Zhu) to establish [the BeeLab](https://beelab955.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Chenyu Zhu, Junqi Xu
 - **[MAY 27th, 2022]** Won the third prize of Python Programming in Jiangsu Division of the 13th Blue Bridge Cup National Software and Information Technology Professional Talent🎉✨
 - **[June. 2024]** Published the paper *YawnNet: A Visual-Centric Approach for Yawning Detection* as the first author.
-- **[September. 2024]** Admitted to the School of Computer Science and Technology, Soochow University.
+- **[September. 2024]** Recommended to study for a master's degree at the School of Computer Science and Technology, Soochow University.
 
 ## Projects
 
